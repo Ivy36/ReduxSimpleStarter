@@ -17,7 +17,7 @@ const VideoDetail = ({video}) => {
 				<div>{video.snippet.title}</div>
 				<div>{video.snippet.description}</div>
 			</div>
-		</div>	
+		</div>
 	);
 };
 
